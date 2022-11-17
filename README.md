@@ -1,4 +1,4 @@
-# NER_Using_Scispacy
+# NER_Using_Scispacy_(NLP)
 Named Entity Extraction Using Scispacy package
 
 
