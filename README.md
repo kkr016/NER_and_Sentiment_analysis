@@ -1,5 +1,5 @@
 ## NER_Using_Scispacy_(NLP)
-Named Entity Extraction Using Scispacy package
+### Named Entity Extraction Using Scispacy package
 
 
 Objective 1: Extracting and counting most frequent entities from the tweets.
